@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that classifies customer app reviews as **positive**, **neutral** or **negative**. It covers the full lifecycle: data collection, cleaning, exploratory analysis, model training and tuning, evaluation, and deployment as a live web app.
 
-**🔗 Live demo:** https://PASTE-YOUR-STREAMLIT-LINK-HERE.streamlit.app
+**🔗 Live demo:** https://sentiment-analyzer-lvrbkocvka2c7rreojivwa.streamlit.app/
 
 > Built as an MCA end-to-end ML project.
 

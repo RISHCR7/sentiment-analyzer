@@ -1,0 +1,12 @@
+{
+  "best_model": "LogisticRegression",
+  "best_params": {
+    "clf__C": "10",
+    "tfidf__ngram_range": "(1, 2)"
+  },
+  "test_accuracy": 0.7822,
+  "test_macro_f1": 0.5442,
+  "sklearn_version": "1.9.1",
+  "train_size": 1212,
+  "test_size": 303
+}

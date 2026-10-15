@@ -1,0 +1,4 @@
+Model,CV Accuracy,CV Macro F1,Time (s)
+LogisticRegression,0.8077,0.6074,4.6785
+LinearSVC,0.8242,0.6044,4.3067
+ComplementNB,0.825,0.5803,4.5765
